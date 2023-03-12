@@ -3,7 +3,7 @@
 
 **MyBot** - a handy bot for finding music on YouTube
 
-[**MyApi**]([img/description.png](https://github.com/AntonKharchuk/MyApi)) - provides the ability to retrieve feeds related to videos, users, and playlists
+[**MyApi**](https://github.com/AntonKharchuk/MyApi)) - provides the ability to retrieve feeds related to videos, users, and playlists
 
 *p.s. you should run both to start a bot*
 
