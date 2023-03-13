@@ -1,7 +1,7 @@
 # MyBot
 ![.NetV](https://img.shields.io/static/v1?style=badge&message=5.0&color=blueviolet&label=.Net) ![telegram](https://img.shields.io/static/v1?message=Telegram&color=blue&label=) ![bot]( https://img.shields.io/static/v1?message=bot&color=&label=) ![Forks](https://img.shields.io/github/forks/AntonKharchuk/PasswordsHash?style=social)
 
-**MyBot** - a handy bot for finding music on YouTube
+[**MyBot**](https://t.me/YouApiMusicBot) - a handy bot for finding music on YouTube
 
 [**MyApi**](https://github.com/AntonKharchuk/MyApi) - provides the ability to retrieve feeds related to videos, users, and playlists
 
@@ -41,3 +41,6 @@
 
 ![playlistAdd](img/search.png)
 
+:link:**Bot link**
+
+https://t.me/YouApiMusicBot
