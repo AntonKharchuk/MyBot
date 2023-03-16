@@ -15,18 +15,18 @@ namespace MyBot
 
         static Constants()
         {
-            MyBotDirectory = findMyDir(new FileInfo(Assembly.GetExecutingAssembly().Location).FullName);
+            MyBotDirectory = FindMyDir(new FileInfo(Assembly.GetExecutingAssembly().Location).FullName);
             //LocalhostAddres = @"https://localhost:44311/";
             LocalhostAddres = @"https://localhost:5001/";
         }
-        private static string findMyDir(string path)
+        private static string FindMyDir(string path)
         {
             if (path.EndsWith("MyBot\\"))
             {
                 return path;
             }
             else
-                return findMyDir(path.Remove(path.Length - 1));
+                return FindMyDir(path.Remove(path.Length - 1));
         }
     }
 }
